@@ -7,7 +7,7 @@ site_description: >-
   The most powerful, configurable, open-source Discord bridge plugin out there.
 nav:
   - Home: index.md
-  - Compatability: compatability.md
+  - Compatibility: compatibility.md
   - Performance: performance.md
   - Security: security.md
 # TODO: remove (and add redirects) for pages that will be removed for ascension
@@ -79,7 +79,7 @@ markdown_extensions:
   - pymdownx.snippets:
       base_path:
       - docs/_snippets
-  - pymdownx.tabbed:
+  - pymdownx.blocks.tab:
       alternate_style: true
   - pymdownx.highlight
   - pymdownx.superfences

@@ -87,4 +87,4 @@ DiscordSRV requires Java 8 or newer
 [SARanks (TModsServerAddons_Ranks)]: https://www.spigotmc.org/resources/72349/
 [EpicChatFormat (EpicChatPrefix)]: https://www.spigotmc.org/resources/56996/
 [FreedomChat]: https://modrinth.com/plugin/freedomchat/
-[NoChatReports]: https://www.spigotmc.org/resources/102990/
+[NoChatReports]: https://www.spigotmc.org/resources/102932/

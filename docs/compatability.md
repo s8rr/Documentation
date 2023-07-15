@@ -23,9 +23,9 @@ DiscordSRV requires Java 8 or newer
     | PlaceholderAPI | DiscordSRV | `2.11.1+` |
     | Vault | DiscordSRV | `1.7+` |
     | **Chat plugins** |
-    | Chatty | DiscordSRV | `2.19.13+` | ⚠️ No support for hover, click components |
+    | Chatty | DiscordSRV | `2.19.13+` |
     | GriefPrevention | DiscordSRV | `16.18.1+` | For blocking soft-muted players |
-    | LunaChat | DiscordSRV | `3.0.16+` | ⚠️ No support for hover, click components |
+    | LunaChat | DiscordSRV | `3.0.16+` |
     | McMMO | DiscordSRV | `2.1.220+` | For admin chat<br/>⚠️ No support for hover, click components |
     | TownyChat | DiscordSRV | `0.45+` |
     | VentureChat | DiscordSRV | `3.5.0+` |

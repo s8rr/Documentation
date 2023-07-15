@@ -16,21 +16,21 @@ DiscordSRV requires Java 8 or newer
 ## Plugin integrations and compatability
 
 === "Bukkit, Spigot, Paper"
-    **Plugin integrations**
-    | Plugin | Supported added by | Version |
-    |---|---|---|
-    | LuckPerms       | DiscordSRV | `5.0+` |
-    | PlaceholderAPI  | DiscordSRV | `2.11.1+` |
-    | Vault           | DiscordSRV | `1.7+` |
+    ###### Plugin integrations
+    | Plugin | Supported added by | Version | Note |
+    | --- | --- | --- | --- |
+    | LuckPerms | DiscordSRV | `5.0+` |
+    | PlaceholderAPI | DiscordSRV | `2.11.1+` |
+    | Vault | DiscordSRV | `1.7+` |
     | **Chat plugins** |
-    | Chatty             | DiscordSRV | `2.19.13+` |
-    | GriefPrevention    | DiscordSRV | `16.18.1+` |
-    | LunaChat           | DiscordSRV | `3.0.16+` |
-    | McMMO              | DiscordSRV | `2.1.220+` |
-    | TownyChat          | DiscordSRV | `0.45+` |
-    | VentureChat        | DiscordSRV | `3.5.0+` |
-    
-    **Compatability notes**  
+    | Chatty | DiscordSRV | `2.19.13+` | ⚠️ No support for hover, click components |
+    | GriefPrevention | DiscordSRV | `16.18.1+` | For blocking soft-muted players |
+    | LunaChat | DiscordSRV | `3.0.16+` | ⚠️ No support for hover, click components |
+    | McMMO | DiscordSRV | `2.1.220+` | For admin chat<br/>⚠️ No support for hover, click components |
+    | TownyChat | DiscordSRV | `0.45+` |
+    | VentureChat | DiscordSRV | `3.5.0+` |
+
+    ###### Compatability notes
     | Plugin | Status | Explanation |
     |---|---|---|
     | FactionsUUID | ✅ | For global chat to be forwarded requires `1.6.9.5-U0.3.0b133+` |
@@ -40,17 +40,17 @@ DiscordSRV requires Java 8 or newer
     | FreedomChat | ✅ | Works at packet level |
     | NoChatReports | ❌ | Cancels all chat events |
 === "BungeeCord, Waterfall"
-    **Plugin integrations**
-    | Plugin| Supported added by | Version |
+    ###### Plugin integrations
+    | Plugin | Supported added by | Version |
     |---|---|---|
     | LuckPerms | DiscordSRV | `5.0+` |
 === "Velocity"
-    **Plugin integrations**
+    ###### Plugin integrations
     | Plugin | Supported added by | Version |
     |---|---|---|
     | LuckPerms | DiscordSRV | `5.0+` |
 === "Sponge"
-    **Plugin integrations**
+    ###### Plugin integrations
     | Plugin | Supported added by | Version |
     |---|---|---|
     | LuckPerms | DiscordSRV | `5.0+` |
